@@ -1,4 +1,4 @@
-# Privacy-Polity for Snake: UFO defence
+# Privacy-Policy for Snake: UFO defence
 
 
 
